@@ -10,4 +10,11 @@ AND Age = 30;
 4- SELECT Points FROM students
 WHERE name = "Alex";
 
-5- 
+5-INSERT INTO students (name, Age, Gender, Points)
+VALUES("antoine", 24, "M", 1000);  
+
+6-UPDATE students
+SET Points = Points + 200
+WHERE name = "Basma";
+
+7-
