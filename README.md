@@ -58,7 +58,7 @@ Layal graduated on 08/09/2018. Create a table **graduates** that includes:
 
 In the **Execute SQL** tab, do the following:
 
-1. Copy Layal's data from **students** to **graduates**
+1. Copy Layal's data from **students	** to **graduates**
 2. Add the graduation date previously mentioned to Layal's record in **graduates**
 3. Remove Layal's record from **students**
 4. Commit \("Creating Table"\)
